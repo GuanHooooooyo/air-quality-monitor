@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">環境品質小幫手</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">資料更新</string>
+    <string name="title_activity_index">IndexActivity</string>
+    <string name="title_activity_useful">UsefulActivity</string>
+    <string name="title_activity_aboutinfo">AboutinfoActivity</string>
+    <string name="imageNewTaipei">新北市</string>
+    <string name="imageTaipei">台北市</string>
+    <string name="imageTaichung">台中市</string>
+    <string name="imageTainan">台南市</string>
+    <string name="imageKaohsiung">高雄市</string>
+    <string name="title_activity_city">CityActivity</string>
+
+    <color name="green">#2EB800</color>
+    <color name="purple">#B800F5</color>
+    <color name="org">#FF887A</color>
+    <color name="blue">#002EB8</color>
+    <color name="depPurple">#9900CC</color>
+    <color name="depRed">#CC0033</color>
+    <color name="redorg">#F53D00</color>
+
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="title_activity_user_interface">UserInterfaceActivity</string>
+    <string name="title_activity_uvi">UviActivity</string>
+
+</resources>
